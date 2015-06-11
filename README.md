@@ -1,2 +1,2 @@
-# android_line_game
+# Android Line Game
 LINE game for Andorid
